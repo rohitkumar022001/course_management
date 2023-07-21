@@ -6,7 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("WELCOME TO ORGANISATION");
 		Admin a=new Admin();
-		a.
+	
 	}
 
 }
