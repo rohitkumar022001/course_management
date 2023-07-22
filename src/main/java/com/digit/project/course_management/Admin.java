@@ -14,8 +14,8 @@ public class Admin {
 	static HashMap<Integer, Professor> mappingProfessor = new HashMap<>();
 	static HashMap<String, String> mappingStudentsLog = new HashMap<>();
 
-	static String user_name = "dibya34";
-	static String password = "dibya@2023";
+	static String user_name = "rohit";
+	static String password = "rohit@2001";
 
 	// register admin
 	public boolean admin(String user_name, String pass) {
@@ -262,5 +262,5 @@ public class Admin {
 		}
 
 	}
-
+    
 }

@@ -9,7 +9,7 @@ public class Student {
 	int Quizzes;
 	int Projects;
 	int Midterm_Exam;
-	int Final_Exam;
+	int   Final_Exam;
 
 	public Student(String user_name, String password, int course_id) {
 		this.user_name = user_name;

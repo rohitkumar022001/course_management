@@ -6,7 +6,7 @@ public class Professor {
 
 	public Professor(String name, int course_id) {
 		this.name = name;
-		this.course_id = course_id;
+		this.course_id =    course_id;
 	}
 
 }
