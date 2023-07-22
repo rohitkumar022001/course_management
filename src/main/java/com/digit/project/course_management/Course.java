@@ -1,12 +1,14 @@
 package com.digit.project.course_management;
 
-public class Professor {
+public class Course {
 	String name;
 	int course_id;
+	float duration;
 
-	public Professor(String name, int course_id) {
+	public Course(String name, int course_id, float duration) {
 		this.name = name;
 		this.course_id = course_id;
+		this.duration = duration;
 	}
 
 }
