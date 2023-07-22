@@ -8,7 +8,7 @@ public class Course {
 	public Course(String name, int course_id, float duration) {
 		this.name = name;
 		this.course_id = course_id;
-		this.duration = duration;     
+		this.duration = duration;
 	}
 
 }

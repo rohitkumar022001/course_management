@@ -97,10 +97,10 @@ public class Main {
 				break;
 			default:
 				System.out.println("\t\tThank You....");
-				break;   
+				break;
 			}
 		}
 
 	}
 
-}    
+}
